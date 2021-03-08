@@ -17,3 +17,7 @@ Given a record of every transaction during a three month period, calculate the r
 
 Make up a data set to best demonstrate your solution
 Check solution into GitHub
+
+Uses H2 DB
+Create and Insert Scripts are inside resources folder.
+Use Postman or any HTTP client to hit the end point http://localhost:8080/service/rewards.
